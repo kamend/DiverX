@@ -1,8 +1,7 @@
-Diver X by Kamen Dimitrov
-=====
-made for Ludum Dare #29 using Unity
+### Diver X by Kamen Dimitrov
 --------
-_____________
+
+Made for Ludum Dare #29 using Unity
 
 Play a web version: [here](http://www.kamend.com/LDM29/)
 
